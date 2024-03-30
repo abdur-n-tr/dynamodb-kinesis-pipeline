@@ -1,0 +1,1 @@
+# dynamodb-kinesis-pipeline
